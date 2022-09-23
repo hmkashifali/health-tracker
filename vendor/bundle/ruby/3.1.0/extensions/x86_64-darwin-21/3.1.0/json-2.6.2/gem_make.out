@@ -1,0 +1,13 @@
+current directory: /Users/hmkashifali/Documents/Toptal/H-M-Kashif-Ali/calories-tracker/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+/Users/hmkashifali/.rvm/rubies/ruby-3.1.0/bin/ruby -I /Users/hmkashifali/.rvm/rubies/ruby-3.1.0/lib/ruby/3.1.0 -r ./siteconf20220927-43598-rz1ybo.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hmkashifali/Documents/Toptal/H-M-Kashif-Ali/calories-tracker/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+make DESTDIR\= clean
+
+current directory: /Users/hmkashifali/Documents/Toptal/H-M-Kashif-Ali/calories-tracker/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+make DESTDIR\=
+make: Nothing to be done for `all'.
+
+current directory: /Users/hmkashifali/Documents/Toptal/H-M-Kashif-Ali/calories-tracker/vendor/bundle/ruby/3.1.0/gems/json-2.6.2/ext/json
+make DESTDIR\= install
